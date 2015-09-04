@@ -45,4 +45,6 @@ respektive HTML-fil till ditt lokala git-repository; 2) *pushar* ändringarna i 
 lokala git-repository till ditt git-repository på GitHub; 3) skapar en *pull
 request* på GitHub.
 
+Uppgiften ska vara inlämnad senast onsdag 9/9.
+
 Lycka till!
